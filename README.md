@@ -1,5 +1,5 @@
 # GildedRose
-GildedRose assessment for DPG. This README will be used as a devlog.
+This README will be used as a devlog.
 
 ### Info
 Sun 11-08-024 15:00 - 18:00 + Mon 09:00 - 11:00
