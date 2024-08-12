@@ -2,11 +2,11 @@
 This README will be used as a devlog.
 
 ### Info
-Sun 11-08-024 15:00 - 18:00 + Mon 09:00 - 11:00
+Sun 11-08-24 15:00 - 18:00 + Mon 12-08-24 09:00 - 11:00
 
 #### Approach
 GildedRose file is unreadable and full of code smells; needs to be refactored. 
-Tests have been set up already so TDD will be applied. According to description: Do NOT alter item class. 
+Tests have been set up already, TDD will be applied. According to description: Do NOT alter item class. 
 
 1. Get rid of magic strings, introduce static properties or enum. 
 1. If tree makes file a chore to read, and there's a lot of redundancy and duplication. Separate items based by name. 
