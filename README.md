@@ -25,7 +25,7 @@ Tests have been set up already, TDD will be applied. According to description: D
 2. Quality degrades twice as fast once each sell date has been passed
 3. Aged Brie increases in Quality the older it gets
 4. 'Sulfuras' never decreases in quality
-5. Backstage passes and aged brie quality +3 when sellIn < 5, + 2 when sellIn < 10 and 0 when sellIn -1? 
+5. Backstage passes and aged brie quality +3 when sellIn <= 5, + 2 when sellIn <= 10 and 0 when sellIn <= 0? 
 6. Conjured items degrade in Quality twice as fast (introduce const)
 
 ### Notes
